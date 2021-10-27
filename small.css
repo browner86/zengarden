@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Montserrat:wght@800&display=swap');
+
+body {background-color:  #e2ebf2;
+    max-width:960px;
+    margin:0 auto;}
+h1 {font-family: 'Festive', cursive;
+    font-size: 100px;}
+
+
+h2, h3 {font-family:  'Montserrat', sans-serif;
+    font-size: 20px;}
+p {font-family: Arial, Helvetica, sans-serif;}
+
+ .preamble{csstriangle 	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-left: 50px solid #555;
+	border-bottom: 25px solid transparent;}
+
+

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Montserrat:wght@800&display=swap');
+
+body {background-color:  #e2ebf2;
+    max-width:960px;
+    margin:0 auto;}
+h1 {font-family: 'Festive', cursive;
+    font-size: 100px;}
+
+
+h2, h3 {font-family:  'Montserrat', sans-serif;
+    font-size: 20px;}
+p {font-family: Arial, Helvetica, sans-serif;}
+
+body {
+    background-image: (url("data:image/svg+xml,%3Csvg width='210mm' height='297mm' viewBox='0 0 210 297' version='1.1' id='svg5' inkscape:version='1.1.1 (3bf5ae0d25, 2021-09-20)' sodipodi:docname='triangle.svg' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns='http://www.w3.org/2000/svg' xmlns:svg='http://www.w3.org/2000/svg'%3E%3Csodipodi:namedview id='namedview7' pagecolor='%23ffffff' bordercolor='%23666666' borderopacity='1.0' inkscape:pageshadow='2' inkscape:pageopacity='0.0' inkscape:pagecheckerboard='0' inkscape:document-units='mm' showgrid='false' inkscape:zoom='0.72337262' inkscape:cx='245.37838' inkscape:cy='561.95105' inkscape:window-width='1920' inkscape:window-height='1001' inkscape:window-x='-9' inkscape:window-y='-9' inkscape:window-maximized='1' inkscape:current-layer='layer1' /%3E%3Cdefs id='defs2' /%3E%3Cg inkscape:label='Layer 1' inkscape:groupmode='layer' id='layer1'%3E%3Cpath sodipodi:type='star' style='fill:%23000080' id='path170' inkscape:flatsided='false' sodipodi:sides='3' sodipodi:cx='-702.26599' sodipodi:cy='149.30064' sodipodi:r1='245.24887' sodipodi:r2='122.62443' sodipodi:arg1='0.067693023' sodipodi:arg2='1.1148906' inkscape:rounded='0' inkscape:randomized='0' d='m -457.57881,165.88961 -190.69862,93.51092 -190.69861,93.51095 14.36647,-211.90532 14.36645,-211.905309 176.33215,118.394385 z' transform='matrix(0.537115,0,0,0.34311955,199.02069,82.378498)' inkscape:transform-center-x='-28.998065' inkscape:transform-center-y='-2.8459986' /%3E%3C/g%3E%3C/svg%3E");;
+    )}
